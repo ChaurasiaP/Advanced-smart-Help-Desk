@@ -1,0 +1,6 @@
+install python Pycharm IDE
+
+in the main file "mainhospitalmanagement.py" at line 458 change the address of the file as per where the file
+if located in your device.
+
+run the program  
